@@ -1,0 +1,26 @@
+{
+  "name": "testando_nextjs_vercel",
+  "version": "1.0.0",
+  "description": "testando_nextjs_vercel",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoGarciaPereira/testando_nextjs_vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoGarciaPereira/testando_nextjs_vercel/issues"
+  },
+  "homepage": "https://github.com/GustavoGarciaPereira/testando_nextjs_vercel#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
